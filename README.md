@@ -1,2 +1,2 @@
 # alx_python
- Repository for ALX python projects
+ This is the repository for my ALX python projects
